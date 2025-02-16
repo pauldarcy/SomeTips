@@ -1,0 +1,17 @@
+General Coding Tips
+Follow Consistent Naming Conventions – Use clear, descriptive names for variables, functions, and files (e.g., camelCase for JavaScript, snake_case for Python).
+Write Modular Code – Break down large functions into smaller, reusable components to improve readability and maintainability.
+Document Your Code – Add meaningful comments and docstrings for functions, classes, and modules to help others understand your logic.
+Handle Errors Gracefully – Use try-except (Python) or try-catch (JavaScript) blocks to prevent unexpected crashes.
+Optimize Performance – Avoid redundant loops, minimize API calls, and use efficient data structures like sets or dictionaries for quick lookups.
+Git & GitHub Best Practices
+Use Meaningful Commit Messages – Instead of Update index.js, write Fix bug in user authentication.
+Follow a Branching Strategy – Use main or develop branches for stable code and feature branches (feature/new-ui) for new work.
+Write a Good README – Explain the project, installation steps, usage, and contribution guidelines clearly.
+Use .gitignore Properly – Exclude unnecessary files like node_modules, .env, and compiled binaries.
+Leverage GitHub Issues & PRs – Assign tasks, discuss bugs, and review changes before merging to maintain quality.
+Testing & Code Quality
+Write Unit Tests – Use testing frameworks like pytest (Python) or Jest (JavaScript) to ensure functionality.
+Automate Code Formatting – Use linters (ESLint, Pylint) and formatters (Prettier, Black) for consistency.
+Set Up CI/CD – Automate testing and deployment using GitHub Actions or Travis CI.
+Refactor Code Regularly – Improve structure and remove duplicate code to keep it clean.
