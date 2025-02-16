@@ -1,0 +1,3 @@
+I can leave here some messages! That's interesting. 
+
+militaryCTF{my_new_hobby!}
